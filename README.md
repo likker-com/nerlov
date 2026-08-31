@@ -37,15 +37,10 @@
 
 <div align="center">
 
-<!-- ВИДЕО-ФАЙЛ DOWNLOAD.MP4 -->
-<video src="https://github.com/knyisiezzz/knyisiezzz/raw/main/Download.mp4" autoplay loop muted playsinline width="460" style="border-radius: 18px; border: 3px solid #ffffff; box-shadow: 0 0 30px rgba(255,255,255,0.4);"></video>
-
-<br/><br/>
-
 <a href="https://www.tiktok.com/@vidocheek/video/7664347276000726303" target="_blank">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="460" style="border-radius: 18px; border: 3px solid #ffffff; box-shadow: 0 0 30px rgba(255,255,255,0.4);" alt="Танцующие котики из Download.mp4"/>
+  <img src="./cat_video.gif" width="380" style="border-radius: 18px; border: 3px solid #ffffff; box-shadow: 0 0 30px rgba(255,255,255,0.4);" alt="Котики из Download.mp4"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/▶_ОРИГИНАЛ_ВИДЕО_В_TIKTOK_(@vidocheek)-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <img src="https://img.shields.io/badge/▶_СМОТРЕТЬ_В_TIKTOK_(@vidocheek)-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <p>
@@ -83,75 +78,7 @@
 
 ---
 
-### ⏱️ Время за кодом (Красивый онлайн-трекер)
-
 <div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="left"><b>☕ Java (Fabric / Paper / Bytecode)</b></td>
-    <td align="center"><img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=00f5ff" alt="Java Progress"/></td>
-    <td align="right"><code>42 hrs 15 mins</code> • <b>65.0%</b></td>
-  </tr>
-  <tr>
-    <td align="left"><b>🐍 Python (AsyncIO / Bots / Scripts)</b></td>
-    <td align="center"><img src="https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=00ff88" alt="Python Progress"/></td>
-    <td align="right"><code>13 hrs 00 mins</code> • <b>20.0%</b></td>
-  </tr>
-  <tr>
-    <td align="left"><b>🗄 SQL, Redis & Data Configs</b></td>
-    <td align="center"><img src="https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=ff0055" alt="Database Progress"/></td>
-    <td align="right"><code>05 hrs 12 mins</code> • <b>08.0%</b></td>
-  </tr>
-  <tr>
-    <td align="left"><b>🐘 Gradle, Groovy & Build Tools</b></td>
-    <td align="center"><img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=ffbb00" alt="Gradle Progress"/></td>
-    <td align="right"><code>03 hrs 18 mins</code> • <b>05.0%</b></td>
-  </tr>
-  <tr>
-    <td align="left"><b>💻 PowerShell, Bash & CI/CD</b></td>
-    <td align="center"><img src="https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=ffffff" alt="Bash Progress"/></td>
-    <td align="right"><code>01 hr 15 mins</code> • <b>02.0%</b></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- БОЛЬШИЕ БЕЛЫЕ ЧАСЫ ГЕРМАНИИ С СЕКУНДАМИ И ДНЯМИ -->
-<div align="center">
-
-## 🕒 ВРЕМЯ В ГЕРМАНИИ (BERLIN / CEST / UTC+2) 🇩🇪
-
-<div style="background: #000000; border: 3px solid #ffffff; border-radius: 16px; padding: 24px; display: inline-block; box-shadow: 0 0 35px rgba(255,255,255,0.35);">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=200&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=🕒+GERMANY+(BERLIN)+%7C+CEST+(UTC%2B2);📅+DATE%3A+LIVE+DAY+%26+MONTH+TRACKING;⏱️+HOURS%2C+MINUTES+%26+SECONDS+SYNC;⚡+SYSTEM+STATUS%3A+ONLINE+24%2F7" alt="Big White Germany Digital Clock" />
-</a>
-
-<br/><br/>
-
-<table align="center" style="border: 1px solid #ffffff; background: #0a0e17; border-radius: 10px; color: #ffffff;">
-  <tr align="center">
-    <td style="padding: 12px 24px; border-right: 1px solid #ffffff;">
-      <h2 style="color: #ffffff; margin: 0;">🇩🇪 BERLIN</h2>
-      <span style="color: #aaaaaa;">Часовой пояс</span>
-    </td>
-    <td style="padding: 12px 24px; border-right: 1px solid #ffffff;">
-      <h2 style="color: #ffffff; margin: 0;">CEST / UTC+2</h2>
-      <span style="color: #aaaaaa;">Режим времени</span>
-    </td>
-    <td style="padding: 12px 24px;">
-      <h2 style="color: #00ff66; margin: 0;">● ONLINE</h2>
-      <span style="color: #aaaaaa;">Статус синхронизации</span>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/><br/>
 
 <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="55" alt="Cat 1"/>
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="55" alt="Bongo Cat"/>
