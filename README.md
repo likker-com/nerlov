@@ -77,7 +77,7 @@
 
 ### 💎 Регламент:
 
-- https://github.com/user-attachments/assets/d422bb19-9daf-4f46-bef3-3568f1a5717c
+- **СКОРО.... (Обещаю)!**
 
 
 
