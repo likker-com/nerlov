@@ -68,9 +68,13 @@
 
 ---
 
-
 <br/><br/>
 
-<b>Сделано с скоростью и лицензия likker! • likker (knyisiezzz)</b>
+<b>Сделано с скоростью и лицензией<img width="202" height="360" alt="cat_video" src="https://github.com/user-attachments/assets/2296a1d0-7ed4-4d8d-ae2c-b8e15061c67e" />
+ likker! • likker (knyisiezzz)</b>
 
 </div>
+
+
+![Uploading cat_video.gif…]()
+
