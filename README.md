@@ -75,8 +75,11 @@
 
 </div>
 
+### 💎 Регламент:
 
-https://github.com/user-attachments/assets/15fb3013-6b3b-4c7d-b3da-ed935b4dcffd
+- https://github.com/user-attachments/assets/d422bb19-9daf-4f46-bef3-3568f1a5717c
+
+
 
 
 
