@@ -61,10 +61,10 @@
 
 | Проект | Описание | Ссылка на репозиторий |
 | :--- | :--- | :--- |
-| ⚡ **HolyOptik** | Движок оптимизации мира, структур, куллинга сущностей и FastMath тригонометрии в Minecraft 1.20.1 Fabric | [Смотри по ссылке](https://github.com/knyisiezzz/holyoptik) |
-| 🔍 **HolyZoom** | Плавный кинематографичный зум камеры и GUI меню с удобной регулировкой колесиком мыши (1.1x–50x) | [Смотри по ссылке](https://github.com/knyisiezzz/holyzoom) |
-| 📋 **HolyMenu** | Отображение стильных номеров слотов (0, 1, 2...) в меню и сундуках без просадок FPS | [Смотри по ссылке](https://github.com/knyisiezzz/holymenu) |
-| 🛠 **HolyUtils** | Экспорт открытых меню и сундуков в формат DeluxeMenus со всеми NBT и копированием текста из чата | [Смотри по ссылке](https://github.com/knyisiezzz/holyutils) |
+| ⚡ **HolyOptik** | Движок оптимизации мира, структур, куллинга сущностей и FastMath тригонометрии в Minecraft 1.20.1 Fabric | [https://github.com/likker-com/holyoptik](https://github.com/likker-com/holyoptik) |
+| 🔍 **HolyZoom** | Плавный кинематографичный зум камеры и GUI меню с удобной регулировкой колесиком мыши (1.1x–50x) | [https://github.com/likker-com/holyzoom](https://github.com/likker-com/holyzoom) |
+| 📋 **HolyMenu** | Отображение стильных номеров слотов (0, 1, 2...) в меню и сундуках без просадок FPS | [https://github.com/likker-com/holymenu](https://github.com/likker-com/holymenu) |
+| 🛠 **HolyUtils** | Экспорт открытых меню и сундуков в формат DeluxeMenus со всеми NBT и копированием текста из чата | [https://github.com/likker-com/holyutils](https://github.com/likker-com/holyutils) |
 
 ---
 
