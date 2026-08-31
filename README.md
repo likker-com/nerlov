@@ -37,12 +37,15 @@
 
 <div align="center">
 
-<video src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.mp4" autoplay loop muted playsinline width="400" style="border-radius: 16px; border: 2px solid #ffffff; box-shadow: 0 0 25px rgba(255,255,255,0.2);"></video>
-<br/>
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="400" style="border-radius: 16px; border: 2px solid #ffffff; box-shadow: 0 0 25px rgba(255,255,255,0.2);" alt="Танцующие котики"/>
+<a href="https://www.tiktok.com/@vidocheek/video/7664347276000726303" target="_blank">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="460" style="border-radius: 18px; border: 3px solid #ffffff; box-shadow: 0 0 30px rgba(255,255,255,0.4);" alt="Танцующие котики"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/▶_КЛИКНИ_ДЛЯ_ПРОСМОТРА_В_TIKTOK_(@vidocheek)-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
-<br/>
-<b>🎬 Оригинал видео в TikTok: <a href="https://www.tiktok.com/@vidocheek/video/7664347276000726303">@vidocheek / TikTok</a></b>
+<p>
+  <i>«Когда программируешь целый день, а котики на фоне создают идеальный вайб»</i> ✨
+</p>
 
 </div>
 
@@ -58,7 +61,7 @@
 | **⚙️ Mixin & ASM** | Middle+ | Хуки в рантайм Minecraft, декомпиляция CFR, анализ байткода |
 | **💻 Bash & PowerShell** | Junior+ | Автоматизация сборки Gradle, деплой проектов, скрипты |
 
-**Инструменты:** IntelliJ IDEA, Git, Gradle 8.9, Fabric Loom, PaperMC, MySQL, Redis, CFR Decompiler, VS Code, Discord
+**Инструменты разработки:** IntelliJ IDEA, Git, Gradle 8.9, Fabric Loom, PaperMC, MySQL, Redis, CFR Decompiler, VS Code, Discord
 
 ---
 
@@ -75,36 +78,36 @@
 
 ---
 
-### ⏱️ Время за кодом
+### ⏱️ Время за кодом (Онлайн счётчик)
 
 ```txt
-Java (Fabric / Paper)  38 hrs 20 mins   ████████████████████████░░░░░░░░░░   58.40 %
-Python (AsyncIO / Bots)14 hrs 45 mins   █████████░░░░░░░░░░░░░░░░░░░░░░░░   22.45 %
-JSON / NBT / Configs    6 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Gradle / Groovy / Build 4 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-PowerShell / Bash / CI  2 hrs 00 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Java (Fabric / Paper)   00 hrs 00 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python (AsyncIO / Bots) 00 hrs 00 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON / NBT / Configs    00 hrs 00 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Gradle / Groovy / Build 00 hrs 00 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PowerShell / Bash / CI  00 hrs 00 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 ---
 
-<!-- БЕЛЫЕ ЧАСЫ ГЕРМАНИИ С СЕКУНДАМИ И ДНЯМИ -->
+<!-- БОЛЬШИЕ БЕЛЫЕ ЧАСЫ ГЕРМАНИИ С СЕКУНДАМИ И ДНЯМИ -->
 <div align="center">
 
-### 🕒 ВРЕМЯ В ГЕРМАНИИ (BERLIN / CEST / UTC+2) 🇩🇪
+## 🕒 ВРЕМЯ В ГЕРМАНИИ (BERLIN / CEST / UTC+2) 🇩🇪
 
-<div style="background: #000000; border: 2px solid #ffffff; border-radius: 14px; padding: 22px; display: inline-block;">
+<div style="background: #000000; border: 3px solid #ffffff; border-radius: 16px; padding: 24px; display: inline-block; box-shadow: 0 0 35px rgba(255,255,255,0.35);">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=200&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=🕒+GERMANY+TIME+(BERLIN)+%7C+CEST+(UTC%2B2);📅+DAYS+•+HOURS+•+MINUTES+•+SECONDS+RUNNING;🏍️+SPEED%2C+CODE%2C+CATS+%26+POP+MUSIC;⚡+MAXIMUM+FPS+AND+ZERO+LAG+ALWAYS" alt="Germany Live Digital Clock" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=250&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=🕒+GERMANY+TIME+(BERLIN)+%7C+CEST;📅+DAYS+•+HOURS+•+MINS+•+SECS+ACTIVE;⚡+ONLINE+24%2F7+•+REALTIME+SYNC;🏍️+SPEED%2C+CODE%2C+CATS+%26+POP+MUSIC" alt="Big White Germany Digital Clock" />
 </a>
 
 <br/><br/>
 
 ```diff
-+ [ZONE]   GERMANY / BERLIN (CEST / UTC+2)
-+ [TIME]   24/7 LIVE DAYS • HOURS • MINUTES • SECONDS
-+ [STATUS] HIGH SPEED • ZERO ERRORS • 100% OPERATIONAL
-+ [VIBE]   MOTORCYCLES 🏍️ • POP MUSIC 🎵 • DANCING CATS 🐱
++ [ZONE]       GERMANY / BERLIN (CEST / UTC+2)
++ [COUNTDOWN]  00 DAYS : 00 HOURS : 00 MINS : 00 SECS (RUNNING)
++ [FPS STATUS] 500+ FPS • ZERO LATENCY • 100% OPERATIONAL
++ [FAVORITES]  MOTORCYCLES 🏍️ • POP MUSIC 🎵 • DANCING CATS 🐱
 ```
 
 </div>
